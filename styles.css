@@ -107,12 +107,9 @@ header .profile-image:hover {
 }
 
 .location {
-  background-color: rgba(192,192,192,1,.5);
-  color: grey;
   font-size: 20px;
-
-
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -238,4 +235,19 @@ a.social:hover {
 
 .work-exp {
   margin-top: 230px;
+}
+
+.img-experience {
+  background: url("images/rexperience.jpg") no-repeat center;
+  height: 130px;
+  color: #f97878;
+  border-radius: 3px;
+}
+
+.img-experience h2 {
+  background-color: rgba(249,120,120,.5);
+  color: #fff;
+  text-align: center;
+  padding-top: 47px;
+  font-weight: lighter;
 }
